@@ -1,0 +1,30 @@
+#   FILE: holton_website_project p2 change logt
+#   DATE: 2024-12-13
+#   AUTHOR: Jack Holton
+#   DESCRIPTION
+A log of changes between part 1 and part 2
+
+*/ Added DDMC_Support.html and .css 
+    added T shirt form for supporter t shirt
+    added table for t shirt size chart
+
+/* updated all pages for mobile responsiveness
+    fixed issue with page being cut off on the right side when showing on mobile devices
+
+/* fixed an issue with the left side background image not showing properly
+
+/* added a translucent overlay over the right side background image to make text easier to read 
+
+/* added a psuedo return to top menu that returns user to top of pages that scroll far down
+
+/* added favicon 
+
+/* added photo gallery
+
+/* added video to about page 
+
+/* changed font and red font color to be easier on the eyes
+
+/* updated background color for menu
+
+/* added confirmation page for t shirt order form
